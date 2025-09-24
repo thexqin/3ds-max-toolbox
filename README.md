@@ -2,6 +2,8 @@
 
 A collection of powerful, time-saving scripts for 3ds Max artists, originally developed in 2011 and updated in 2014. These scripts were designed to streamline common tasks in architectural visualization and 3D rendering workflows.
 
+Check out [The latest QX Toolbox New 2025](https://github.com/thexqin/3ds-max-toolbox-new)
+
 ## 🚀 Key Features
 
 The QX Toolbox is a comprehensive set of utilities neatly organized into a single, intuitive floater. It includes:
