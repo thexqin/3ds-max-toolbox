@@ -70,6 +70,6 @@ A visual guide to the toolbox's main floater and its various functions.
 
 * **V-Ray Compatibility**: This toolbox was initially built for V-Ray 1.5, 2.0, and 3.0. The render presets may behave differently with newer versions of V-Ray, but the majority of the tools, particularly those for object management and transformation, work perfectly across 3ds Max 2014 through 2025.
 * **Undos**: All operations are undoable via the standard **Ctrl+Z** hotkey, so feel free to experiment without worry.
-* **File Paths**: Some internal paths are hardcoded for `ms*` files. Ensure all files (`.mse`) from the toolbox are in the same folder as the main `.mcr` file.
+* **File Paths**: Some internal paths are hardcoded for `ms*` files. Ensure all files (`.ms .mse`) from the toolbox are in the same folder as the main `.mcr` file.
 
 Feel free to open an issue or pull request if you find any bugs or have suggestions for improvements. Happy rendering!
