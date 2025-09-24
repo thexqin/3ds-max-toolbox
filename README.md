@@ -43,10 +43,12 @@ This powerful suite of tools helps you manage render settings and optimize your 
 
 A visual guide to the toolbox's main floater and its various functions.
 
-* **Render Presets and Tools**: A screenshot showing the main floater with quick access buttons for render quality presets and scene maintenance tools.
-* **V-Ray Render Check**: A screenshot of the diagnostic tool, highlighting common issues with red alert icons.
+* **General Utilities**: A screenshot showing the main floater with scene maintenance tools.
+  [toolbox.png]
 * **V-Ray Material Check**: A screenshot of the material management tool, showing how to check and apply specific parameters to materials.
+  [toolbox_vray_material.png]
 * **Channel Setting**: A screenshot of the color-coded channel assignment tool and its render elements features.
+  [toolbox_channel.png]
 
 ## 🛠️ Installation
 
